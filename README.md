@@ -1,6 +1,6 @@
 # ByteMaster2003
 
-Welcome to my secondary GitHub profile!
+Welcome to my GitHub profile!
 
 Hi there 👋, I'm Vivek Sahani, a passionate software developer with a keen interest in backend systems, web development, open-source contributions, and embedded systems. My projects span various technologies, and I’m always eager to learn, experiment, and collaborate.
 
@@ -21,7 +21,7 @@ Here’s a quick snapshot of what I’ve been working on:
 
 - **Backend Development**: REST APIs, microservices, cloud deployments, and message queues.
 - **Frontend Development**: Building responsive and interactive UIs with frameworks like **React** and **Angular**.
-- **Open-Source Contributions**: Actively contributing to projects like **Zulip**, **ns-3**, and **Linux Kernel**.
+- **Open-Source Contributions**: Actively contributing to projects like **ns-3**, and **Linux Kernel**.
 - **Embedded Systems**: Programming for **Raspberry Pi**, **BeagleBone**, and low-level driver development.
 - **Security**: Focused on **web security**, **authentication**, and **network security**.
 
@@ -33,7 +33,13 @@ Here’s a quick snapshot of what I’ve been working on:
 
 - [LinkedIn](https://www.linkedin.com/in/developer-vivek-sahani/)
 - [Primary GitHub](https://github.com/VivekSite)
-- [Blog](#) (Link to blog or personal website if available)
+- [Twitter](https://x.com/viveksahani2003)
+- [Instagram](https://www.instagram.com/viveksahani_2003/)
+- [Portfolio](https://vivek-portfolio-ten.vercel.app/)
+- [LeetCode](https://leetcode.com/u/viveksahani2003/)
+- [GFG](https://www.geeksforgeeks.org/user/viveksahani2003/)
+- [HackerRank](https://www.hackerrank.com/profile/viveksahani2003)
+- [CodeChef](https://www.codechef.com/users/viveksahani200)
 
 ---
 
